@@ -1,16 +1,19 @@
-## Hi there 👋
+## Aryan Prashar
 
-<!--
-**SnapyHook/SnapyHook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Security Researcher with a strong focus on:
+- Reverse engineering and binary analysis
+- Mobile game security (Android / iOS)
+- Anti-cheat systems and client integrity
 
-Here are some ideas to get you started:
+### Areas of interest
+- UE4 internals and native libraries
+- Script / VM analysis (Lua)
+- Emulator detection and client trust
+- Anti-tamper and integrity mechanisms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+IDA Pro, Ghidra, Frida, Magisk/Zygisk, ADB, LLDB, C/C++, Python
+
+### Current goal
+Seeking research or internship opportunities in:
+Anti-cheat development • Game security • Reverse engineering
