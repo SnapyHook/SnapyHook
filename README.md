@@ -41,7 +41,7 @@ I work on understanding how native applications behave internally — especially
 
 ### Languages
 - **Strong:** C, C++, Bash  
-- **Working / Comfortable:** Objective-C / C++, Python, Lua, JavaScript  
+- **Working / Comfortable:** Objective-C / C++, Java, Python, Lua, JavaScript  
 
 ---
 
