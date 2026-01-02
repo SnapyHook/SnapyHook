@@ -18,7 +18,7 @@ I work on understanding how native applications behave internally — especially
 ### Recent Work
 - **Lua Runtime Analysis in UE4 Games**  
   Reverse engineering Lua VM integration, bytecode loading, opcode modification, and decryption.  
-  ➜ https://snaphook.github.io
+  ➜ https://snapyhook.github.io/
 
 - **UE4 Lua Scripting Pipeline**  
   Runtime discovery, Lua VM hooking, script execution flow, and injection research.  
