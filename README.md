@@ -52,5 +52,7 @@ Seeking research, trainee, or internship roles in:
 ---
 
 🔗 **Blog:** https://snapyhook.github.io/
+
 🔗 **GitHub:** https://github.com/SnapyHook
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/prashar-aryan/
